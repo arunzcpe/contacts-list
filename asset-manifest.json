@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "arunzcpe.github.io/contacts-list/static/css/main.34de6062.chunk.css",
+    "main.js": "arunzcpe.github.io/contacts-list/static/js/main.30b10734.chunk.js",
+    "main.js.map": "arunzcpe.github.io/contacts-list/static/js/main.30b10734.chunk.js.map",
+    "runtime-main.js": "arunzcpe.github.io/contacts-list/static/js/runtime-main.b3754d3f.js",
+    "runtime-main.js.map": "arunzcpe.github.io/contacts-list/static/js/runtime-main.b3754d3f.js.map",
+    "static/js/2.5164fc0b.chunk.js": "arunzcpe.github.io/contacts-list/static/js/2.5164fc0b.chunk.js",
+    "static/js/2.5164fc0b.chunk.js.map": "arunzcpe.github.io/contacts-list/static/js/2.5164fc0b.chunk.js.map",
+    "index.html": "arunzcpe.github.io/contacts-list/index.html",
+    "precache-manifest.6f91e376ffb81c1950e41a7e664ff6da.js": "arunzcpe.github.io/contacts-list/precache-manifest.6f91e376ffb81c1950e41a7e664ff6da.js",
+    "service-worker.js": "arunzcpe.github.io/contacts-list/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "arunzcpe.github.io/contacts-list/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3754d3f.js",
+    "static/js/2.5164fc0b.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.30b10734.chunk.js"
+  ]
+}
